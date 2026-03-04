@@ -1,4 +1,4 @@
-
+requests
 streamlit
 snowflake-snowpark-python
 snowflake-connector-python>=3.7.0
